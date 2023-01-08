@@ -1,0 +1,15 @@
+*{
+    background-color: #f0f2f5;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+font-weight: lighter;
+
+}
+.create{
+    
+        font-size: large;
+        padding: 12px;
+        border: 0px;
+        border-radius: 6px;
+        background-color: rgba(26, 201, 26, 0.945);
+        color: white;
+    }
